@@ -6,6 +6,7 @@ The python code used in this project helps you to understand and estimate the ac
 * Support Vector Regression
 * Decision Tree Regression
 * Random Forest Regression
+
 In the end, it produces the graph which contains error rate of each algorithm implying the most efficient algorithm.
 
 ## Libraries Required
@@ -16,6 +17,6 @@ In the end, it produces the graph which contains error rate of each algorithm im
 * SciKit-Learn
 
 ## Running the program
-Once all the required libraries are installed, the program provides a CLI to work with. 
+Once all the required libraries are installed, the program provides a CLI to work with and you are good to go.
 
 Cheers :)
