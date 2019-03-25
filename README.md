@@ -19,4 +19,7 @@ In the end, it produces the graph which contains error rate of each algorithm im
 ## Running the program
 Once all the required libraries are installed, the program provides a CLI to work with and you are good to go.
 
+## Running the program on your own dataset
+You can use Generic_template.py to run the program on your own dataset, and get the error rates, so as to choose the best regression algorithm. 
+
 Cheers :)
